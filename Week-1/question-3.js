@@ -12,4 +12,4 @@ let kwh;
         console.log("the is large");
     }else{
         console.log("number is normal");
-    }
+    };
