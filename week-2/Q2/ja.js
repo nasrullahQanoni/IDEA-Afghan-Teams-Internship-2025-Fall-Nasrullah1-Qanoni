@@ -4,6 +4,7 @@ function CtoF(C) {
     return (C*9/5)+32
 }
 console.log(CtoF(10));
+// kks
 
 //Check even/odd
 function Checknumber(num) {
